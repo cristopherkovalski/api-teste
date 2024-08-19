@@ -11,10 +11,11 @@ Este projeto é uma API construída com [NestJS](https://nestjs.com/), um framew
 
 1. **Clone o repositório:**
    git clone https://github.com/cristopherkovalski/api-teste.git
+2. **Acesse o repositório:**
    cd repository
-2. **Instale as dependências:**
+3. **Instale as dependências:**
    npm install
-3. **Rode o projeto:**
+4. **Rode o projeto:**
    npm run start
 
 
